@@ -1,6 +1,7 @@
 Задание для nFactorial 
 игра Fireboy and Watergirl
 запуск игры в main файле
+для смены уровня E и Q
 
 ![Управление](https://img.freepik.com/premium-vector/wasd-direction-gaming-keys-on-keyboard-vector-icon-template_22692-385.jpg?w=2000 ))
 Это управление
